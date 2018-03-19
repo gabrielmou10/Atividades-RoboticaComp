@@ -1,0 +1,19 @@
+INDEX VERSION 1.129+C:\Users\Gabriel Moura\Documents\Insper\3 Semestre\Robótica Computacional\Meu Repositório\Robotica_Computacional\.metadata\.plugins\org.eclipse.jdt.core
+4046074592.index
+580827802.index
+1247731611.index
+2636016846.index
+413509584.index
+2219317442.index
+1317484368.index
+2494646503.index
+1959601655.index
+3235336518.index
+1093845878.index
+3165090461.index
+1608995524.index
+355853560.index
+968452947.index
+2856107746.index
+2883170266.index
+1051371708.index
